@@ -52,6 +52,8 @@ public class MainActivity extends ActionBarActivity {
 
 //    fifth commit test with github-webhook url
 
+    //    sixth commit test with github-webhook url
+
     private Boolean isInternetPresent = false;
     private ConnectionDetector cd;
     private AlertDialogManager alert = new AlertDialogManager();
