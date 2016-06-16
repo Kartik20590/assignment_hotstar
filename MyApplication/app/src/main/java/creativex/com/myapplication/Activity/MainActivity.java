@@ -41,6 +41,8 @@ public class MainActivity extends ActionBarActivity {
 
 //    TEst commit
 
+//    second commit test
+
 
     private Boolean isInternetPresent = false;
     private ConnectionDetector cd;
