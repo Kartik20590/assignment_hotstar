@@ -37,6 +37,11 @@ import creativex.com.myapplication.Utility.GooglePlaces;
 
 public class MainActivity extends ActionBarActivity {
 
+
+
+//    TEst commit
+
+
     private Boolean isInternetPresent = false;
     private ConnectionDetector cd;
     private AlertDialogManager alert = new AlertDialogManager();
